@@ -17,7 +17,7 @@ export default function App() {
     <View className="h-screen">
       <View className="bg-gray-800 py-5">
         <Text className="text-white text-center  mt-6 text-xl font-semibold">
-          Notify
+          LNotify
         </Text>
       </View>
       <AddTodo setTodos={setTodos} todos={todos} />
